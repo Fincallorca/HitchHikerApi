@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [Unreleased]
 
+## [0.0.2] - 2018-09-18
+
+### Fixed
+- Moved files to new [Wsdl](src/Wsdl) directory.
+
 ## [0.0.1] - 2018-09-18
 
 ### Fixed
