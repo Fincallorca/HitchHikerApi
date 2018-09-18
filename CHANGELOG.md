@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [Unreleased]
 
+## [0.0.1] - 2018-09-18
+
+### Fixed
+- Fixed composer vendor name and changelog.
+
 ## [0.0.0] - 2018-09-18
 
 ### Added
