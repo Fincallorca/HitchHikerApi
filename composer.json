@@ -1,5 +1,5 @@
 {
-  "name": "fincallorca-hitchhiker-api",
+  "name": "fincallorca/hitchhiker-api",
   "description": "SOAP Service to request the HitchHiker Flight API.",
   "keywords": [
 	"hitchhiker",

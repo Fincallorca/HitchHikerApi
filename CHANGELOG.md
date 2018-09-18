@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [Unreleased]
 
-## [0.0.0] - 2017-10-16
+## [0.0.1] - 2018-09-18
 
-Imported classes of WSDL version 3.1.388.1
+### Fixed
+- Fixed composer vendor name and changelog.
+
+## [0.0.0] - 2018-09-18
+
+### Added
+- Imported classes of WSDL version 3.1.388.1
