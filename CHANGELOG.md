@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [Unreleased]
 
+## [0.0.3] - 2018-11-07
+
+### Added
+- Added a workaround to allow multiple values 'Published' and 'Negotiated' in GDSType.
+
 ## [0.0.2] - 2018-09-18
 
 ### Fixed

@@ -22,10 +22,20 @@ class GDSTypeEnum
      */
     const VALUE_PUBLISHED = 'Published';
     /**
+     * Constant for value 'Published'
+     * @return string 'Published'
+     */
+    const VALUE_PUBLISHED_NEGOTIATED = 'Published Negotiated';
+    /**
      * Constant for value 'Negotiated'
      * @return string 'Negotiated'
      */
     const VALUE_NEGOTIATED = 'Negotiated';
+    /**
+     * Constant for value 'Published'
+     * @return string 'Published'
+     */
+    const VALUE_NEGOTIATED_PUBLISHED = 'Negotiated Published';
     /**
      * Return true if value is allowed
      * @uses self::getValidValues()
@@ -48,7 +58,9 @@ class GDSTypeEnum
         return array(
             self::VALUE_NONE,
             self::VALUE_PUBLISHED,
+            self::VALUE_PUBLISHED_NEGOTIATED,
             self::VALUE_NEGOTIATED,
+            self::VALUE_NEGOTIATED_PUBLISHED,
         );
     }
     /**
